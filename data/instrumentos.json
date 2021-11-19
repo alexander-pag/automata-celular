@@ -1,0 +1,13 @@
+[
+    {"value": "seleccionar", "name": "Seleccionar"},
+    {"value": "1", "name": "Guitarra"},
+    {"value": "2", "name": "Trompeta"},
+    {"value": "3", "name": "Flauta"},
+    {"value": "4", "name": "Trombón"},
+    {"value": "5", "name": "Acordeón"},
+    {"value": "6", "name": "Violin"},
+    {"value": "7", "name": "Ukelele"},
+    {"value": "8", "name": "Bajo"},
+    {"value": "9", "name": "Piano"},
+    {"value": "10", "name": "Xilófono"}
+]
